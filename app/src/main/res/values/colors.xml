@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#000000</color>
+    <color name="colorText">#FFFFFF</color>
+    <color name="dayText">#000000</color>
+    <color name="daytime">#7cbd7f</color>
+    <color name="nighttime">#19261a</color>
+</resources>
